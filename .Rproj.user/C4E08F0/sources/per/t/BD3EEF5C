@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578748747408.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3440753782",
+    "id" : "BD3EEF5C",
+    "lastKnownWriteTime" : 1579030750,
+    "last_content_update" : 1579030750149,
+    "path" : "~/VizKnits/GitHub/co2_sweater/CO2_sweater.R",
+    "project_path" : "CO2_sweater.R",
+    "properties" : {
+        "cursorPosition" : "78,0",
+        "scrollLine" : "56"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
